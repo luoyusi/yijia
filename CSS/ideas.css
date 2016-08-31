@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+section{width:99%;margin:0 auto}
+section .page1{padding-top:49px;padding-bottom:15px;}
+.page1 h3{font-size:26px;margin-bottom:15px;text-align:center;}
+.page1 p{line-height:18px;margin:0px 24%;}
+.page2{border:1px solid #ddd;background:#fafafa;}
+.page2 form{padding:15px 0px 15px 15px;}
+.page2 input{margin:5px;padding:5px 6px;border-radius:3px;background:#d7d7d7;color:#666;}
+.page2 input {font-weight:bold;font-size:10px;line-height:14px;}
+.page2 input:hover{background:#f56426;color:#fff;cursor:pointer;}
+.page3{padding-top:16px;}
+.page3-left{float:left;width:47.5%;}
+.page3-left .pic1{margin-bottom:8px;}
+.page3-left h3{line-height:27px;font-size:20px;}
+.page3-left time{line-height:14px;color:#666;margin-bottom:9px;display:inline-block;}
+.page3-left h4{font-size:14px;margin-top:19px;line-height:18px;}
+.page3-left p{line-height:17px;}
+.page3-left form{margin-top:10px;}
+.page3-left input{padding:2px 5px 1px 5px;font-size:12px;border:1px solid #ccc;border-radius:2px;background:#eee;margin-right:10px;margin-bottom:45px;}
+.page3-right{float:right;width:47.5%;margin-right:0px;}
+.page3-right .pic1{margin-bottom:8px;}
+.page3-right .pic1 img{width:99.9%;}
+.page3-right h3{line-height:27px;font-size:20px;}
+.page3-right time{line-height:14px;color:#666;}
+.page3-right p{line-height:17px;margin-bottom:10px;margin-top:9px;}
+.page3-right input{padding:2px 5px 1px 5px;font-size:12px;border:1px solid #ccc;border-radius:2px;background:#eee;margin-right:10px;margin-bottom:50px;}
+.page4{margin-bottom:26px;}
+.page4-top{margin-bottom:46px;}
+.page4-top img{float:left;margin-left:1px;margin-right:4px;}
+.page4-top img:hover a{color:#61b0fd;}
+.page4-top p{line-height:22px;color:#61b0fd;}
+.page4-top p:hover a{color:#61b0fd;}
+
+.page4-bot{height:30px;margin-bottom:17px;border-bottom:1px solid #eee;}
+.page4-bot .font1{float:left;margin:0px 6px 0px 3px;color:#333;line-height:15px;}
+.page4-bot span{display:block;float:left;color:#e2e2ec;} 
+.page4-bot .font2{margin-left:8px;float:left;color:#f57129;font-weight:bold;line-height:15px;}
+.page4-bot .font1:hover{color:#f57129;text-decoration:underline;}
+.page4-bot .font2:hover{color:#f57129;text-decoration:underline;}
+
+
+.wrap{position:relative;}
+.wrap .toup{width:53px;height:60px;background:rgba(0,0,0,0.5);position:fixed;right:18%;bottom:0px;border-radius:4px;}
+.wrap .toup i{font-size:80px;font-weight:bold;position:absolute;left:3px;bottom:20px;color:#fff;line-height:48px;height:24px;overflow:hidden;}
+.wrap .toup:hover{background:rgba(0,0,0,0.8);}
+
+
+

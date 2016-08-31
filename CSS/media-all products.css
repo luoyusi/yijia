@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (max-width:1080px){
+	.wrap{width:96%;}
+	header .logo{width:50%;}
+	header .form{width:50%;float:right;}
+	header .right{display:none;}
+	.mebilnav{display:none;}
+	.banner{width:98%;}
+	section{width:98%;}
+	footer{width:98%;}
+	.bottom{width:98%;}
+	}
+	
+@media screen and (max-width:768px){
+
+	header form .search{width:0px;height:0px;}
+	.banner-bot{display:none;}
+	.pcnav a{display:none;}
+	.mebilnav{display:block;}
+	
+	section .left{width:96%;margin:0 auto;margin-bottom:20px;}
+	
+	section .right .hezi{width:45%;margin-right:20px;margin-bottom:20px;}
+	section .right .team-box1{width:30%;float:left;margin-right:20px;margin-bottom:20px;}
+	section .right .team-box2{width:30%;float:left;margin-right:20px;margin-bottom:20px;}
+	section .right .team-box3{width:30%;margin-bottom:20px;}
+	
+	
+	}

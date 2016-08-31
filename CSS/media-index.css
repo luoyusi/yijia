@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (max-width:1080px){
+	.wrap{width:96%;}
+	.mebilnav{display:none;}
+	.banner{width:98%;}
+	section{width:98%;}
+	footer{width:98%;}
+	.bottom{width:98%;}
+	}
+	
+@media screen and (max-width:768px){
+	header .logo{width:50%;}
+	header .form{width:50%;float:right;}
+	header form .search{width:0px;height:0px;}
+	header .right{display:none;}
+	.banner-bot{display:none;}
+	.pcnav a{display:none;}
+	.mebilnav{display:block;}
+	.page1-one .img1{width:32%;float:left;margin-right:10px;}
+	.page1-one .img2{width:32%;float:left;margin-right:10px;}
+	.page1-one .img3{width:32%;float:left;}
+	.page1-two-pic{width:98%;margin:0 auto;margin-bottom:20px;}
+	.page1-two-right{width:98%;margin:0 auto;}
+	.page1-three .img1{width:32%;float:left;margin-right:10px;}
+	.page1-three .img2{width:32%;float:left;margin-right:10px;}
+	.page1-three .img3{width:32%;float:left;}
+	.page2-one-left{width:25%;float:left;margin-right:30px;}
+	.page2-one-mid{width:25%;float:left;}
+	.page2-one-right{width:90%;margin:0 auto;}
+	.page2-one-right .pic{width:30%;float:left;}
+	.page2-one-right .font{width:30%;float:left;}
+	
+	.page2-two-left{width:25%;float:left;margin-right:30px;}
+	.page2-two-mid{width:25%;float:left;}
+	.page2-two-right{width:90%;margin:0 auto;}
+	
+	.page2-three-left{width:30%;float:left;}
+	.page2-three-mid{width:30%;margin-right:30px;margin-bottom:20px;}
+	.page2-three-right{width:40%;margin-bottom:20px;}
+	.page2-four{display:none;}
+	
+	
+	}
+	
